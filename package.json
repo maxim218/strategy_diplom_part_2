@@ -12,7 +12,7 @@
   "author": "Maxim Nina Alex",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "webpack": "^3.5.0",
     "assert": "^2.0.0",
     "babel-core": "^6.26.3",
